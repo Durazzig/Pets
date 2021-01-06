@@ -59,7 +59,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="{{route('empleados.index')}}">Empleados</a>
+                            <a class="nav-link text-white" href="{{route('empleados.index')}}">Empleado</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" href="{{route('permisos.index')}}">Permisos</a>
