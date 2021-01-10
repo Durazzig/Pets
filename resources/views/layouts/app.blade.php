@@ -38,7 +38,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-toggle="dropdown">Proveedores</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                              <a class="dropdown-item" href="{{route('providers.index')}}">Listado Proveedores</a>
+                              <a class="dropdown-item" href="{{route('providers.index')}}">Litado Proveedores</a>
                               <a class="dropdown-item" href="{{route('bills.index')}}">Facturas</a>
                             </div>
                         </li>
